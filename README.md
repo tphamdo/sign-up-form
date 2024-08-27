@@ -2,4 +2,4 @@ https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-
 
 Project to practice lessons on forms and intermediate html/css
 
-![Screenshot][.images/screenshot.png]
+![Screenshot](.images/screenshot.png)
